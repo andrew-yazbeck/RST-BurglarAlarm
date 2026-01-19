@@ -1,6 +1,6 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Andrew
+ * Created by: Andrew and Nabeh
  * Created on: Jan 2026
  * This program creates a burglar alarm
 */
